@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello There
 
-<!--
-**Leo-04/Leo-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wyatt.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Been programming since 2015.
+
+My background is in Software Development, Low Level Systems and Cyber Security.
+
+## Languages
+
+### Preferred
+
+- C
+- Python
+
+### Proficient
+
+- HTML/CSS
+- JavaScript
+- Java
+- C#
+- Bash & Batch
+
+## Contact Details
+
+See my [GitHub](https://github.com/Leo-04) for my most recent contact details.
